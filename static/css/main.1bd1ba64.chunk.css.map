@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,OACE,YACF,CAEA,MACE,aACF","file":"main.1bd1ba64.chunk.css","sourcesContent":[".hiden {\n  display: none;\n}\n\n.show {\n  display: block;\n}"]}
